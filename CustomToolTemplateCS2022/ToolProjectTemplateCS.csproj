@@ -41,8 +41,14 @@
 	$corel21$
 
 	$corel22$
-	
+
 	$corel23$
+
+	$corel24$
+
+	$corel25$
+	
+	$corel26$
 
 	<Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 	<PropertyGroup>
